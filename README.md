@@ -4,4 +4,4 @@
 
 ### Todo
 
--[] chalk 라이브러리도 ES Module을 사용해서 require이 아닌 import로 chalk를 불러오는데, 추후 모듈에 대해서 확인해 볼 것
+- [] chalk 라이브러리도 ES Module을 사용해서 require이 아닌 import로 chalk를 불러오는데, 추후 모듈에 대해서 확인해 볼 것
